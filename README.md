@@ -21,7 +21,6 @@ Clean Architecture を参考にしましたが、まだまだ理解が浅いの�
 
 ```
 .
-├─.idea
 └─app
     ├─config
     ├─domain           # domain 以下にロジックを置きます
