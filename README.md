@@ -4,7 +4,18 @@
 
 - wire : https://github.com/google/wire
 
-### ディレクトリ構造
+
+## How to run
+
+```
+git clone https://github.com/inaohiro/wire-tutorial.git
+cd wire-tutorial/app
+wire
+go build
+./app
+```
+
+## ディレクトリ構造
 
 Clean Architecture を参考にしましたが、まだまだ理解が浅いので、usecase, interface 層に対応するディレクトリはありません
 
